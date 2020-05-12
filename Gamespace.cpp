@@ -96,7 +96,7 @@ void Gamespace::play()
 		return;
 	}
 
-	std::cout << *this << "KUR, BACE";
+	std::cout << *this << "GAME OVER";
 	return;
 }
 
